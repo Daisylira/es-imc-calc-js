@@ -133,3 +133,4 @@ function show(data) {
     // Setting innerHTML as tab variable
     document.getElementById("tabelaimc").innerHTML = tab;
 }
+
